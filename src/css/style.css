@@ -1,0 +1,20 @@
+
+html, body {
+    display: flow;
+    /* to centre page on screen*/
+    margin: 9px;
+    font-size: 14px;
+}
+
+h1, h2, h3 {
+    font-size: 24px;
+}
+
+#profile-image{
+    width: 152px;
+    align-items: center;
+}
+
+li {
+  list-style-type: none;
+}
